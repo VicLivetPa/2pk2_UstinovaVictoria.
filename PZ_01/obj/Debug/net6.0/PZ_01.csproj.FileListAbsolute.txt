@@ -1,0 +1,14 @@
+C:\Users\опопппло\Source\Repos\2pk2_UstinovaVictoria\1\PZ_01\bin\Debug\net6.0\PZ_01.exe
+C:\Users\опопппло\Source\Repos\2pk2_UstinovaVictoria\1\PZ_01\bin\Debug\net6.0\PZ_01.deps.json
+C:\Users\опопппло\Source\Repos\2pk2_UstinovaVictoria\1\PZ_01\bin\Debug\net6.0\PZ_01.runtimeconfig.json
+C:\Users\опопппло\Source\Repos\2pk2_UstinovaVictoria\1\PZ_01\bin\Debug\net6.0\PZ_01.dll
+C:\Users\опопппло\Source\Repos\2pk2_UstinovaVictoria\1\PZ_01\bin\Debug\net6.0\PZ_01.pdb
+C:\Users\опопппло\Source\Repos\2pk2_UstinovaVictoria\1\PZ_01\obj\Debug\net6.0\PZ_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\опопппло\Source\Repos\2pk2_UstinovaVictoria\1\PZ_01\obj\Debug\net6.0\PZ_01.AssemblyInfoInputs.cache
+C:\Users\опопппло\Source\Repos\2pk2_UstinovaVictoria\1\PZ_01\obj\Debug\net6.0\PZ_01.AssemblyInfo.cs
+C:\Users\опопппло\Source\Repos\2pk2_UstinovaVictoria\1\PZ_01\obj\Debug\net6.0\PZ_01.csproj.CoreCompileInputs.cache
+C:\Users\опопппло\Source\Repos\2pk2_UstinovaVictoria\1\PZ_01\obj\Debug\net6.0\PZ_01.dll
+C:\Users\опопппло\Source\Repos\2pk2_UstinovaVictoria\1\PZ_01\obj\Debug\net6.0\refint\PZ_01.dll
+C:\Users\опопппло\Source\Repos\2pk2_UstinovaVictoria\1\PZ_01\obj\Debug\net6.0\PZ_01.pdb
+C:\Users\опопппло\Source\Repos\2pk2_UstinovaVictoria\1\PZ_01\obj\Debug\net6.0\PZ_01.genruntimeconfig.cache
+C:\Users\опопппло\Source\Repos\2pk2_UstinovaVictoria\1\PZ_01\obj\Debug\net6.0\ref\PZ_01.dll
