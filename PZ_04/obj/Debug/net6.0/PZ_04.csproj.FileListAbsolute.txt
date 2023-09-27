@@ -1,0 +1,14 @@
+C:\Users\опопппло\Source\Repos\2pk2_UstinovaVictoria\3\2pk2_UstinovaVictoria\PZ_04\obj\Debug\net6.0\PZ_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\опопппло\Source\Repos\2pk2_UstinovaVictoria\3\2pk2_UstinovaVictoria\PZ_04\obj\Debug\net6.0\PZ_04.AssemblyInfoInputs.cache
+C:\Users\опопппло\Source\Repos\2pk2_UstinovaVictoria\3\2pk2_UstinovaVictoria\PZ_04\obj\Debug\net6.0\PZ_04.AssemblyInfo.cs
+C:\Users\опопппло\Source\Repos\2pk2_UstinovaVictoria\3\2pk2_UstinovaVictoria\PZ_04\obj\Debug\net6.0\PZ_04.csproj.CoreCompileInputs.cache
+C:\Users\опопппло\Source\Repos\2pk2_UstinovaVictoria\3\2pk2_UstinovaVictoria\PZ_04\bin\Debug\net6.0\PZ_04.exe
+C:\Users\опопппло\Source\Repos\2pk2_UstinovaVictoria\3\2pk2_UstinovaVictoria\PZ_04\bin\Debug\net6.0\PZ_04.deps.json
+C:\Users\опопппло\Source\Repos\2pk2_UstinovaVictoria\3\2pk2_UstinovaVictoria\PZ_04\bin\Debug\net6.0\PZ_04.runtimeconfig.json
+C:\Users\опопппло\Source\Repos\2pk2_UstinovaVictoria\3\2pk2_UstinovaVictoria\PZ_04\bin\Debug\net6.0\PZ_04.dll
+C:\Users\опопппло\Source\Repos\2pk2_UstinovaVictoria\3\2pk2_UstinovaVictoria\PZ_04\bin\Debug\net6.0\PZ_04.pdb
+C:\Users\опопппло\Source\Repos\2pk2_UstinovaVictoria\3\2pk2_UstinovaVictoria\PZ_04\obj\Debug\net6.0\PZ_04.dll
+C:\Users\опопппло\Source\Repos\2pk2_UstinovaVictoria\3\2pk2_UstinovaVictoria\PZ_04\obj\Debug\net6.0\refint\PZ_04.dll
+C:\Users\опопппло\Source\Repos\2pk2_UstinovaVictoria\3\2pk2_UstinovaVictoria\PZ_04\obj\Debug\net6.0\PZ_04.pdb
+C:\Users\опопппло\Source\Repos\2pk2_UstinovaVictoria\3\2pk2_UstinovaVictoria\PZ_04\obj\Debug\net6.0\PZ_04.genruntimeconfig.cache
+C:\Users\опопппло\Source\Repos\2pk2_UstinovaVictoria\3\2pk2_UstinovaVictoria\PZ_04\obj\Debug\net6.0\ref\PZ_04.dll
